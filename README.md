@@ -1,0 +1,3 @@
+# AMAZON
+
+# adding readme file
