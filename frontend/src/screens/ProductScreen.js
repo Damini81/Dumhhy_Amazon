@@ -1,5 +1,4 @@
 import { useParams } from 'react-router-dom';
-
 function ProductScreen() {
   const params = useParams();
   const { slug } = params;
